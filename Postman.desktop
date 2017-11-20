@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Postman
+Comment=Postman
+Exec=/home/anh_pc/Postman/Postman
+Icon=/home/anh_pc/Postman/resources/app/assets/icon.png
+Terminal=false
+Type=Application
+Categories=Development
+StartupWMClass=Postman
+Name[en_US]=Postman
