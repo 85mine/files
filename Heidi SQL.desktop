@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=HeidiSQL
+Comment=HeidiSQL
+Exec=heidisql
+Icon=/home/anh_pc/HeidiSQL/heidisql.jpeg
+Terminal=false
+Type=Application
+Categories=Wine
+StartupWMClass=HeidiSQL
+Name[en_US]=HeidiSQL
